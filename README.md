@@ -15,7 +15,7 @@ The other source file is 'directionConstraint/circut.py'.  This is much like the
 the critical section (read: bridge) will allow multiple cars on the bridge if the following cars are travelling the 
 same direction as the preceeding car that exists in the critical section (on the bridge).  
 
-###Working it!
+###Running it!
 The applications were designed in an environment with python 2.7, and Pygame.  
 With these in your path you should be able to simply copy, paste, run.  The velocity of each car can be increased 
 with the keys {q,w,e,r} and decreased with {a,s,d,f}.  
